@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "594173825995",
+    "firebase_url": "https://fasum-kristopherowen-default-rtdb.firebaseio.com",
+    "project_id": "fasum-kristopherowen",
+    "storage_bucket": "fasum-kristopherowen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594173825995:android:a3701898cd8d106c09dc4e",
+        "android_client_info": {
+          "package_name": "com.example.fasum_kristopherowen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvVZ4gNHUmvus29FsCMty1wHPHY0ZKYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
